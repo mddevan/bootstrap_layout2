@@ -1,0 +1,123 @@
+/*header start*/
+
+header {
+    background-color: darkslategray;
+    min-height: 250px;
+}
+
+.box1_1 {
+    min-height: 150px;
+    background-color: aquamarine;
+    margin: 40px 0;
+}
+
+.box1_2 {
+    min-height: 80px;
+    background-color: aquamarine;
+    margin-top: 35px;
+}
+
+.box1_3 {
+    min-height: 80px;
+    background-color: aquamarine;
+    margin-top: 30px;
+
+}
+
+.box1_4 {
+    min-height: 80px;
+    background-color: aquamarine;
+    margin-top: 30px;
+}
+
+/*header end*/
+
+/*article start*/
+
+.article {
+    background-color: darkcyan;
+    min-height: 700px;
+}
+
+.box2_1 {
+    min-height: 350px;
+    background-color: aquamarine;
+    margin-top: 25px;
+}
+
+.box2_2 {
+    min-height: 120px;
+    background-color: aquamarine;
+    margin-top: 35px;
+}
+
+.box2_3 {
+    min-height: 120px;
+    background-color: aquamarine;
+    margin-top: 35px;
+}
+
+.box2_4 {
+    min-height: 120px;
+    background-color: aquamarine;
+    margin-top: 35px;
+}
+
+.box3_1 {
+    min-height: 250px;
+    background-color: aquamarine;
+    margin-top: 50px;
+}
+
+.box3_2 {
+    min-height: 195px;
+    background-color: aquamarine;
+    margin-top: 35px;
+}
+
+.box3_3 {
+    min-height: 50px;
+    background-color: aquamarine;
+    margin-top: 20px;
+}
+
+.box3_4 {
+    min-height: 50px;
+    background-color: aquamarine;
+    margin-top: 20px;
+}
+
+.box4_1 {
+    min-height: 145px;
+    background-color: aquamarine;
+    margin-top: 50px;
+}
+
+.box4_2 {
+    min-height: 295px;
+    background-color: aquamarine;
+    margin-top: 40px;
+}
+
+.box4_3 {
+    min-height: 115px;
+    background-color: aquamarine;
+    margin-top: 20px;
+}
+
+/*article end*/
+
+/*footer start*/
+
+footer {
+    min-height: 100px;
+    background-color: darkslategray;
+}
+
+.footer_content {
+    min-height: 60px;
+    background-color: aquamarine;
+    margin-top: 20px;
+}
+
+/*footer end*/
